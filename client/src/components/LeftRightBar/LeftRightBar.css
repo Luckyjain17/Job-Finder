@@ -1,0 +1,251 @@
+.user-name{
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+
+.avatar{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.company-details{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.company-details:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+
+.company-details .company-details-icon{
+ font-size: 35px;
+ cursor: pointer;
+}
+
+.company-details .company-details-text{
+  color: #009dff;
+  cursor: pointer;
+ }
+
+ .add-job{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .add-job:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+
+ .add-job .add-job-icon{
+  font-size: 35px;
+  cursor: pointer;
+ }
+
+ .jobs{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+ .jobs:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+
+ .jobs .jobs-icon{
+  font-size: 35px;
+  cursor: pointer;
+ }
+
+ .jobs-child1{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .jobs-child2{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .jobs-child3{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .jobs-child1:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+ .jobs-child2:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+ .jobs-child3:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+
+ .application-child1{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+ .application-child2{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+ .application-child3{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+ .application-child4{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: #000;
+  margin-left: 40px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .application-child1:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+ .application-child2:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+ .application-child3:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+ .application-child4:hover{
+  font-size: 15px;
+  font-weight: bold; 
+ }
+
+ .application{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+ }
+
+ .application:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+
+ .application .application-icon{
+  font-size: 35px;
+  cursor: pointer;
+ }
+
+ .setting{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+
+ }
+
+ .setting:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+
+ .setting .setting-img{
+  height: 35px;
+  cursor: pointer;
+ }
+
+ .logout .logout-img{
+  height: 35px;
+  cursor: pointer;
+ }
+
+ .logout{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  cursor: pointer;
+ }
+
+ .logout:hover{
+  font-size: 20px;
+  font-weight: bold; 
+ }
+  

@@ -1,0 +1,40 @@
+.company-details-input{
+    display: flex;
+   
+}
+
+.company-details-input .input-edit{
+    display: flex;
+    justify-content: space-between;
+}
+
+.center-user-data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 20px 40px 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.center-user-text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+}
+
+
+.fetch-data{
+    font-weight: lighter;
+    color: #505042;
+}
+
+.edit-button{
+    background-color: #e4f4f7;
+    border-color: white;
+    color: rgb(19, 19, 158);
+    font-size: 21px;
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
